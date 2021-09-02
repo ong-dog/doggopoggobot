@@ -54,4 +54,4 @@ async def link(ctx, link:str):
 @bot.event  
 async def on_ready():
     print('online')
-bot.run('ODgyMDI1MzY2NDM1MjkxMTg2.YS1YIg.qajNSS3bVWUl_QKatYptC_EEyNY')
+bot.run('ODgyMDI1MzY2NDM1MjkxMTg2.YS1YIg.Hvy0BRTlcrxCqI5lhofq0S_Jwng')
